@@ -19,3 +19,5 @@ This is a personal repository for notebooks of data analysis with python. All ri
 就像我大一和你交流的那样，编程不仅仅是一种工具，更是一种行文方式，向世界表达自己的思想与哲学。
 
 写文章的时候，笔要舒服，行文要规范，编程亦然。
+
+今天，我们搭配好了编程环境以及通过学习注释和缩进体验了编程的规范性，明天，我们将从数据类型、变量和作用域开始，一步步给你python代码的`层次感`。
