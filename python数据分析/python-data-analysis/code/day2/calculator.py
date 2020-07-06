@@ -12,24 +12,24 @@
 def main():
     print("Please choose mode with its number : \n 1. addition \t 2.substraction \t 3.multiplication \t 4.division")
     # Code 1: Catch the input
+    n = input()
     print("Plase enter two numbers splitted by a space")
-    x ,y = map(int, input().split())
+    x ,y = map(int, input().split(' '))
     result = 0
     if(n == '1'):
-        pass # Code 2
         result = x + y
     elif(n == '2'):
-        pass # Code 3
         result = x - y
     elif(n == '3'):
-        pass # Code 4
+        result = x * y
     elif(n == '4'):
-        pass # Code 5
+        result = x / y
     else:
         print('Invalid input.')
         return 
     print("The result is: ")
     # Code 6: output the result
+    print(result)
 
 if __name__ == '__main__':
     main()
