@@ -19,3 +19,8 @@ class City:
 Tsingdao = City(9000000, 'China', 'Tsingdao')
 Tsingdao.lockdown()
 Tsingdao()
+
+############################
+
+# 单行注释的标识
+
