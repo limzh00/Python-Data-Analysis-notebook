@@ -1,3 +1,6 @@
+# The grammar of functions
+
+
 # I would claim that `function` is object.
 # To understand that, some properties would be revealed.
 
