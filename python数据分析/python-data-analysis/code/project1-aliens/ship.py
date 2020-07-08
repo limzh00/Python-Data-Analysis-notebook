@@ -12,7 +12,7 @@ class Ship(Sprite):
 
         # 加载飞船图像并获取其外接矩形
         self.screen_rect = screen.get_rect()  # 获得屏幕大小参数
-        self.image = pygame.image.load(r'images/ship.bmp')
+        self.image = pygame.image.load(r'img/ship1.png')
         self.rect = self.image.get_rect()   # 获得飞船图像大小参数
 
         # 将每艘新飞船放在屏幕底部中央
