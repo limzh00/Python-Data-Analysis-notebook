@@ -45,3 +45,8 @@ Python的`层次感`体现在很多方面，在这份文档里体现在以下两
 # Day 3: Basic Python grammar (三)
 
 等待添加。
+
+# Day 4: Basic Python grammar （四）
+
+
+今天完整地介绍完类和函数，下一次学习一些循环和递归。
