@@ -9,6 +9,7 @@
 # DESCRIPTION: This is a simple calculator to test your acknowledgement of basic operation on integers and floating number
 
 # ######################################### YOU SHOULD REPLACE `pass` WITH YOUR CODES #######################################
+ 
 def main():
     print("Please choose mode with its number : \n 1. addition \t 2.substraction \t 3.multiplication \t 4.division")
     # Code 1: Catch the input
