@@ -8,6 +8,7 @@
 # DESCRIPTION: This is a answer file
 
 class Account:
+    num  = 10
     def __init__(self, name, pwd):
         self.holder = name
         self.password = pwd
@@ -24,3 +25,4 @@ def transfer(A,B,num):
         return 1
     print("TRANSFER FAIL: YOU DO NOT HAVE ENOUGH SPARE.")
     return 0
+
